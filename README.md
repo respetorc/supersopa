@@ -1,2 +1,2 @@
 # supersopa
-Super Sopa
+SuperSopa
